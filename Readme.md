@@ -64,3 +64,13 @@ This example is similar to the previous one, except that each off-diagonal coord
 
 # Demo
 Please refer to `demo.py` for an example of running the pipeline.
+
+# Citation
+```
+@article{behdin2023sparse,
+  title={Sparse Gaussian Graphical Models with Discrete Optimization: Computational and Statistical Perspectives},
+  author={Behdin, Kayhan and Chen, Wenyu and Mazumder, Rahul},
+  journal={arXiv preprint arXiv:2307.09366},
+  year={2023}
+}
+```
