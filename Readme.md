@@ -1,3 +1,7 @@
+# Introduction
+
+![GraphL0](./equation.jpeg)
+
 # Using the approximate solver
 
 The solver requires the data matrix `X` which has the size `n*p`, with `n` being the number of samples and `p` being the data dimension.
