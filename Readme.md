@@ -1,6 +1,10 @@
 # Introduction
 
+This repository implements [GraphL0](https://arxiv.org/pdf/2307.09366), a method for estimating sparse precision matrices (aka sparse Gaussian Graphical models). GraphL0 studies an L0-penalized version of pseudo-log-likelihood, via a discrete optimization approach:
+
 ![GraphL0](./equation.jpeg)
+
+This repository includes implementation of fast approximate algorithms to obtain high-quality solutions to the above problem, as well as an exact solver based on a custom nonlinear Branch-and-Bound (BnB). Plesse refer to the following sections for examples of how to use each solver.
 
 # Using the approximate solver
 
